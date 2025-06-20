@@ -52,10 +52,8 @@ def main():
     # Seed so results don't change
     np.random.seed(42)
 
-    # Create small dataset (10 points, 2 features)
-    points = 10
-    features = 2
-    X = np.random.rand(points, features)
+    # Create small dataset
+    X = np.random.rand(10, 2)
 
     # Define true weights and biases
     true_m = np.array([3.5, -2.0])
