@@ -13,7 +13,7 @@ class Model():
         return np.dot(X, self.weights) + self.b
     
     def mean_squared_error(self, y, y_pred):
-        # Computer mean squared error loss
+        # Compute mean squared error loss
         # MSE = 1/2n * sum((y_true - y_pred)^2)
         return (1/ (2 * self.n)) * np.sum((y-y_pred) ** 2)
     
