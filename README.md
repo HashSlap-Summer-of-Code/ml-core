@@ -66,6 +66,26 @@ Contributions will be reviewed and merged by mentors.
 * 🏷️ Earn participation certificates and digital badges
 
 ---
+## 🧰 Templates
+
+### 📄 ML Pipeline Template
+
+A reusable and beginner-friendly Python script that demonstrates a typical Machine Learning pipeline.  
+Supports CLI usage with [`argparse`](https://docs.python.org/3/library/argparse.html) for flexible input and automation.
+
+📂 Location: `templates/ml_pipeline_template.py`
+
+#### 💡 Features:
+- Load data from CSV/JSON
+- Preprocess and split into train/test
+- Train a simple ML model (e.g., Logistic Regression)
+- Evaluate performance
+- Easily adaptable for your own datasets
+
+#### ▶️ How to Run:
+
+python templates/ml_pipeline_template.py --data iris.csv --target species
+
 
 ## 📜 License
 
