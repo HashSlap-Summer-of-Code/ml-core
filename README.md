@@ -57,6 +57,42 @@ Contributions will be reviewed and merged by mentors.
 
 ---
 
+## 📊 Experiment Logger
+
+Located at: `utils/experiment_logger.py`
+
+### ✅ Features
+
+- Logs training results (accuracy, loss, hyperparameters, etc.) to CSV
+- Supports multiple experiments for comparison
+- Visualize performance trends using matplotlib/seaborn
+
+### 📦 Requirements
+
+```bash
+pip install matplotlib seaborn pandas
+
+
+###  🚀 How to Use
+
+from utils.experiment_logger import log_experiment, plot_metrics
+
+###  Log an experiment
+log_experiment(
+    model_name='Perceptron',
+    metrics={'accuracy': 0.9, 'loss': 0.12},
+    hyperparams={'learning_rate': 0.01, 'epochs': 20},
+    dataset_name='Iris'
+)
+
+### Plot results
+plot_metrics(metric='accuracy')
+
+### 🔁 Integration
+Just import and call log_experiment(...) at the end of your model training script. It works across all subdomains like supervised-learning/, deep-learning/, etc.
+
+
+
 ## 🔥 Why Contribute?
 
 * 🎓 Build real ML projects

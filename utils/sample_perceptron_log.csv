@@ -1,0 +1,6 @@
+from utils.experiment_logger import log_experiment
+
+# After training
+metrics = {'accuracy': 0.88, 'loss': 0.35}
+hyperparams = {'learning_rate': 0.01, 'epochs': 15}
+log_experiment(model_name='Perceptron', metrics=metrics, hyperparams=hyperparams, dataset_name='Iris')
