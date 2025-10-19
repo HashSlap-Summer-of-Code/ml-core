@@ -71,7 +71,7 @@ Located at: `utils/experiment_logger.py`
 
 ```bash
 pip install matplotlib seaborn pandas
-
+```
 
 ###  🚀 How to Use
 
@@ -90,7 +90,6 @@ plot_metrics(metric='accuracy')
 
 ### 🔁 Integration
 Just import and call log_experiment(...) at the end of your model training script. It works across all subdomains like supervised-learning/, deep-learning/, etc.
-
 
 
 ## 🔥 Why Contribute?
