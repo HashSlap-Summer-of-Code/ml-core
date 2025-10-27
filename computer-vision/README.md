@@ -42,3 +42,11 @@ Computer Vision (CV) techniques enable machines to understand and interpret visu
 - Integrating real-time inference with edge devices (Raspberry Pi, Jetson Nano)
 - Improving accuracy using transformer-based models (ViT, DETR)
 - Expanding dataset diversity and robustness
+
+## 🔗 Helpful Resources
+
+- [OpenCV Documentation](https://docs.opencv.org/)  
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)  
+- [TensorFlow Computer Vision Guide](https://www.tensorflow.org/tutorials/images)  
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+- [COCO Dataset](https://cocodataset.org/)  
