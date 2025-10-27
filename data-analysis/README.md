@@ -19,9 +19,9 @@ It’s essentially about turning raw data into useful information.
 
 ### Example
 
-Sample Code: 
+Code: 
 
-```
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -39,7 +39,7 @@ plt.ylabel('Sales ($)')
 plt.show()
 ```
 
-Sample Input:
+Input:
 
 ```
 Month,Sales
