@@ -2,7 +2,7 @@
 
 Computer Vision (CV) techniques enable machines to understand and interpret visual information from the real world. It involves image processing, feature extraction, and model training to analyze, classify, and make predictions from visual data.
 
-## Key Concepts
+## ⭐️ Key Concepts
 
 - **Image Preprocessing**: Resizing, normalization, filtering, and augmentation to enhance image quality.
 
@@ -28,7 +28,7 @@ Computer Vision (CV) techniques enable machines to understand and interpret visu
 
 - LabelImg / CVAT – Dataset labeling and annotation
 
-## Applications
+## ⭐️ Applications
 
 - Face and emotion recognition
 - Object detection and tracking
@@ -37,7 +37,7 @@ Computer Vision (CV) techniques enable machines to understand and interpret visu
 - Autonomous vehicle vision systems
 - Document and handwriting recognition
 
-## Future Enhancements
+## 📌 Future Enhancements
 
 - Integrating real-time inference with edge devices (Raspberry Pi, Jetson Nano)
 - Improving accuracy using transformer-based models (ViT, DETR)
