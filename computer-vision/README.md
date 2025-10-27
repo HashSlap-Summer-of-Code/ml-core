@@ -48,5 +48,5 @@ Computer Vision (CV) techniques enable machines to understand and interpret visu
 - [OpenCV Documentation](https://docs.opencv.org/)  
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)  
 - [TensorFlow Computer Vision Guide](https://www.tensorflow.org/tutorials/images)  
-- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)  
+- [Stanford's 2017 Course: Convolutional Neural Networks for Visual Recognition]([http://cs231n.stanford.edu/](https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&si=K6a1a3nGpZABnJtw))  
 - [COCO Dataset](https://cocodataset.org/)  
