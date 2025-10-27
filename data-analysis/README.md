@@ -3,7 +3,7 @@
 Data Analysis is the process of collecting, cleaning, transforming, and interpreting data to discover meaningful patterns, trends, and insights that help in making informed decisions.
 It’s essentially about turning raw data into useful information.
 
-## Main Steps in Data Analysis:
+## ⭐️ Main Steps in Data Analysis:
 
 1. **Data Collection** – Gathering data from sources like surveys, databases, APIs, or sensors.
 
@@ -17,7 +17,7 @@ It’s essentially about turning raw data into useful information.
 
 6. **Interpretation & Visualization** – Presenting insights using graphs, dashboards, or reports so others can understand them easily.
 
-## Common Tools
+## ⚙️ Common Tools
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - R Programming
@@ -25,7 +25,7 @@ It’s essentially about turning raw data into useful information.
 - Excel / Google Sheets
 - Tableau / Power BI
 
-## Real-World Examples
+## ⭐️ Real-World Examples
 
 - Analyzing customer purchase data to recommend products
 - Studying hospital data to identify disease patterns
