@@ -23,7 +23,7 @@ Neural Networks are computational models inspired by the structure and functioni
 
   Configuration parameters such as learning rate, batch size, and number of layers that affect model training and performance.
 
-## Common Architectures
+## ⭐️ Common Architectures
 
 | Type                                   | Description                                                                 |
 | -------------------------------------- | --------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Neural Networks are computational models inspired by the structure and functioni
 | **Long Short-Term Memory (LSTM)**      | A variant of RNN that handles long-term dependencies.                       |
 | **Transformer**                        | State-of-the-art architecture for natural language and sequence modeling.   |
 
-## Example: Simple Feedforward Neural Network (using PyTorch)
+## ⭐️ Example: Simple Feedforward Neural Network (using PyTorch)
 
 ```python
 import torch
@@ -76,7 +76,7 @@ Output: 0.85   # (Approximate value depending on initialization)
 
 This example shows how data flows through layers, loss is calculated, and gradients are updated during training.
 
-## Applications
+## ⭐️ Applications
 
 - Image and speech recognition
 - Natural language understanding and translation
@@ -84,7 +84,7 @@ This example shows how data flows through layers, loss is calculated, and gradie
 - Fraud detection and predictive analytics
 - Game and autonomous system control
 
-## Helpful Resources
+## 🔗 Helpful Resources
 
 - [Deep Learning Book by Ian Goodfellow](https://www.deeplearningbook.org/)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
