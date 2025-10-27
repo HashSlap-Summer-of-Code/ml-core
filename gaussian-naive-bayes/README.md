@@ -1,8 +1,8 @@
 # About GNB
 
-Gaussian Naive Bayes is a probabilistic machine learning algorithm used mainly for classification problems. It’s based on Bayes’ Theorem, which describes how to update the probability of a hypothesis when given new evidence.
+Gaussian Naive Bayes is a **probabilistic machine learning algorithm** used mainly for **classification problems**. It’s based on **Bayes’ Theorem**, which describes how to update the probability of a hypothesis when given new evidence.
 
-- It’s called “Naïve” because it assumes that all features are independent of each other — an assumption that simplifies computation but often still works surprisingly well in real life.
+- It’s called “Naïve” because it assumes that all features are independent of each other, an assumption that simplifies computation but often still works surprisingly well in real life.
 
 - It’s called “Gaussian” because it assumes that the continuous features follow a Normal (Gaussian) distribution.
 
