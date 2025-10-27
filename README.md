@@ -47,11 +47,11 @@ We welcome **first-time contributors** and experienced ML practitioners alike!
 
 ### 📦 Steps:
 
-1. Fork the repository 🍴
+1. Fork the repository
 2. Pick an issue or propose your own project
 3. Create a folder inside the relevant domain
 4. Add code + README
-5. Submit a Pull Request ✅
+5. Submit a Pull Request 
 
 Contributions will be reviewed and merged by mentors.
 
