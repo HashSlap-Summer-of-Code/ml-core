@@ -13,7 +13,7 @@ Instead of learning from labeled data, the agent learns by receiving rewards or 
 - **Value Function** – Estimates how good a particular state or action is.
 - **Exploration vs. Exploitation** – Balancing trying new actions vs. using known rewarding ones.
 
-## ⭐️ Reinforcement Learning Process
+## ⭐️ Workflow
 
            +-------------------+
            |       Agent       |
